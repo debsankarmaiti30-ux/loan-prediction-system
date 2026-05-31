@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      name: Admin
+      password: $2b$12$LakVe7PSTXCs.8jXaqjCyu5yipBUZH5FfZ3v/gMEdCePHdeyYdXnu
+
+cookie:
+  expiry_days: 30
+  key: loan_prediction_secret_key
+  name: loan_prediction_cookie
+
+pre-authorized:
+  emails: []
+
